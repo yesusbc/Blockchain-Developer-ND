@@ -10,3 +10,6 @@
 [submodule "simpleChain"]
 	path = simpleChain
 	url = https://github.com/yesusbc/simpleChain
+[submodule "CuyToken"]
+	path = CuyToken
+	url = https://github.com/yesusbc/CuyToken
