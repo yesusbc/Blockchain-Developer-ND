@@ -1,0 +1,12 @@
+[submodule "starNotary-ERC20-Ethereum"]
+	path = starNotary-ERC20-Ethereum
+	url = https://github.com/yesusbc/starNotary-ERC20-Ethereum
+[submodule "starNotary-ERC721-Ethereum"]
+	path = starNotary-ERC721-Ethereum
+	url = https://github.com/yesusbc/starNotary-ERC721-Ethereum
+[submodule "Ethereum-Secret-Messenger-Dapp"]
+	path = Ethereum-Secret-Messenger-Dapp
+	url = https://github.com/yesusbc/Ethereum-Secret-Messenger-Dapp
+[submodule "simpleChain"]
+	path = simpleChain
+	url = https://github.com/yesusbc/simpleChain
